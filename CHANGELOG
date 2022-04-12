@@ -1,0 +1,8 @@
+Version 0.1, 2022-04-12, Jeronimo Cobo <jero@iwo.es>
+ * Bugfix: Correct Shell-Escaping calling genbarcode
+ * Use of preg functions instead of ereg
+ * Shipping Free-TTF file
+ * several fixups
+ + support for magic_quotes_gpc set to off
+ + Windows compatible
+ + various code-fixes
